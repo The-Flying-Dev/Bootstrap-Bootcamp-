@@ -1,0 +1,95 @@
+#navbar {
+    background-image: linear-gradient(to right, #003973 0%, #E5E5BE  51%, #003973  100%)
+}        
+
+#link{
+    color: white;
+    font-weight: 400;
+    margin-left: 25px;
+}
+
+#logo {
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+}
+.jumbotron{
+    margin-top: 20px;
+    background-image: url("images/4IR.jpg");
+    background-size: cover;
+    color: white;   
+    text-align: center;                 
+} 
+
+#heading{
+    text-align: center;
+    font-weight: 700;
+}
+
+#head{
+    text-align: center;
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.btn-grad {background-image: linear-gradient(to right, #77A1D3 0%, #79CBCA  51%, #77A1D3  100%)}
+ .btn-grad {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .card-title{
+      font-weight: 500;
+      text-align: center;
+  }
+
+  #card-text{
+      text-align: center;
+  }
+
+
+  
+ .btn-grad-2 {background-image: linear-gradient(to right, #003973 0%, #E5E5BE  51%, #003973  100%)}
+ .btn-grad-2 {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 100%;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    
+    
+  }
+
+  .btn-grad-2:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+  .social-links {
+    text-align: center;
+}
+
+.social-links img{
+    height: 25px;
+    margin: 20px;
+    cursor: pointer;
+}
